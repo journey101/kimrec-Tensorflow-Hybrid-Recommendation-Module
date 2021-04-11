@@ -1,6 +1,6 @@
 # kimrec-for-tensorflow-hybrid-recommendation-model
 'kimrec' is a package that solved tensorflow1,2 version crash error of tensorrec(by James Kirk).
-This package is the purpose of the study not commercial.
+
 
 # Example of original model (tensorrec) error 
 ![image](https://user-images.githubusercontent.com/70046278/108617986-c2911280-745d-11eb-8889-b067f97dcea1.png)
